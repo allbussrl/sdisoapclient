@@ -1,5 +1,6 @@
 {
     "name": "allbussrl/sdisoapclient",
+    "description": "A simple Sdi Soap Client",
     "type": "library",
     "authors": [
         {
@@ -7,7 +8,6 @@
             "email": "luca.cerretani@allbus.com"
         }
     ],
-    "minimum-stability": "dev",
 
     "require": {
         "php": ">=7.0.0"
