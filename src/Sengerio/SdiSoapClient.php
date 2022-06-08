@@ -1,6 +1,6 @@
 <?php
 
-namespace Allbus;
+namespace Sengerio;
 
 class SdiSoapClient extends \SoapClient
 {

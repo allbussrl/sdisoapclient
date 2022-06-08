@@ -1,11 +1,11 @@
 {
-    "name": "allbussrl/sdisoapclient",
+    "name": "sengerio/sdisoapclient",
     "description": "A simple Sdi Soap Client",
     "type": "library",
     "authors": [
         {
-            "name": "Luca",
-            "email": "luca.cerretani@allbus.com"
+            "name": "Michele",
+            "email": "michele.zaccaria@sengerio.com"
         }
     ],
 
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0" : {
-            "Allbus": "src/"
+            "Sengerio": "src/"
         }
     }
 }
